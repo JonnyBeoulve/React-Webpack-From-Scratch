@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+/*==============================================================
+// A boilerplate asyncronous component solution.
+==============================================================*/
 const asyncComponent = (importComponent) => {
     return class extends Component {
         state = {

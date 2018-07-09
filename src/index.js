@@ -5,6 +5,9 @@ import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import App from './App';
 
+/*==============================================================
+// Render App within ID root of index.html.
+==============================================================*/
 const app = (
     <BrowserRouter>
         <App />

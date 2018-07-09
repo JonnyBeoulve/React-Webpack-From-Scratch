@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+/*==============================================================
+// A basic page containing text for the Houston route.
+==============================================================*/
 class Houston extends Component {
     render () {
         return (
